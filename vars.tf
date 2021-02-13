@@ -2,7 +2,7 @@
 
 variable "aws_region" {
   type = string             # This shows the type of variable
-  default = "eu-east-2"
+  default = "eu-west-2"
 }
 
 variable "AMI" {
